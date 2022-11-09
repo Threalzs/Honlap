@@ -106,5 +106,26 @@ footer ul {
 footer a {
   color: blue;
 }
-#szoveg1 { border: 5px black dotted
-}
+  #szoveg1 { border-top: 5px black dotted;
+    border-bottom: 5px black dotted ;
+    border-left: 5px dashed black;
+    border-right: 5px dashed black;
+    
+  }
+  #leiras2 { border: 5px gray inset;
+  }
+  #lairas3 { border: 5px black outset  
+
+  }
+  #leirascim { text-shadow: 2px 2px 2px red ;
+
+  }
+  #adatokcim { text-shadow: 2px 2px red ;
+
+  }
+  #galeriacim { text-shadow: 2px 2px 2px red;
+
+  }
+  #forrasokcim { text-shadow: 1px 1px darkgreen ;
+
+  }
