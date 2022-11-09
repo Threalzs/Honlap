@@ -26,6 +26,7 @@ h2 {
   font-style: italic;
   text-decoration: underline;
   font-size: 45px;
+  text-shadow: 2px 2px red;
 }
 #tartalom {
   width: 1200px;
