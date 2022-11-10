@@ -130,3 +130,23 @@ footer a {
   #forrasokcim { text-shadow: 1px 1px darkgreen ;
 
   }
+    .dropdown-content {
+        display: none;
+        background-color: #f9f9f9;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+        float: right;
+        margin: left 20px 
+    }
+      .dropdown:hover .dropdown-content {
+        display: block;
+    
+      }
+      .desc{
+        text-align: center;
+        font-size: 20px;
+        font-style: italic;
+        text-decoration: underline;
+        text-shadow: 1px 1px 1px red;
+      }
